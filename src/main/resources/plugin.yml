@@ -1,0 +1,3 @@
+name: MT-Lock
+version: '${project.version}'
+main: be.nateoncaprisun.mtlock12.MTLock
